@@ -68,13 +68,6 @@ const testimonials = [
     event: "Casamento",
     img: "https://randomuser.me/api/portraits/women/45.jpg",
   },
-  {
-    quote:
-      "Profissionalismo, criatividade e atendimento impecável em todos os detalhes.",
-    name: "Fernanda Costa",
-    event: "Evento Corporativo",
-    img: "https://randomuser.me/api/portraits/women/68.jpg",
-  },
 ];
 
 function changeTestimonial() {
