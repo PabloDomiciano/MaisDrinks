@@ -63,7 +63,7 @@ let currentTestimonial = 0;
 const testimonials = [
   {
     quote:
-      "Contratar o +Drinks foi a melhor decisão para nosso casamento. Os drinks eram lindos e deliciosos, e o sistema de matéria prima nos fez economizar bastante sem perder qualidade.",
+      "Contratar o +Drinks foi a melhor decisão para nosso casamento, o sistema de matéria prima nos fez economizar bastante sem perder qualidade.",
     name: "Mariana e Rodrigo",
     event: "Casamento",
     img: "https://randomuser.me/api/portraits/women/45.jpg",
